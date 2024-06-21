@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/assignments/eldd_assignments/day08/Assignment1/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sunbeam/assignments/eldd_assignments/day08/Assignment1/pchar.ko /home/sunbeam/assignments/eldd_assignments/day08/Assignment1/pchar.o /home/sunbeam/assignments/eldd_assignments/day08/Assignment1/pchar.mod.o;  true

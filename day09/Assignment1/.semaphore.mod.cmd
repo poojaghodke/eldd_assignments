@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/Classwork/eldd/semaphore/semaphore.mod := printf '%s\n'   semaphore.o | awk '!x[$$0]++ { print("/home/sunbeam/Classwork/eldd/semaphore/"$$0) }' > /home/sunbeam/Classwork/eldd/semaphore/semaphore.mod

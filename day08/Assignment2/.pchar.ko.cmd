@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/Classwork/eldd/Assignioctl/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sunbeam/Classwork/eldd/Assignioctl/pchar.ko /home/sunbeam/Classwork/eldd/Assignioctl/pchar.o /home/sunbeam/Classwork/eldd/Assignioctl/pchar.mod.o;  true

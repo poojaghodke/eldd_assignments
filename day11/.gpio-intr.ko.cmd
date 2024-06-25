@@ -1,0 +1,1 @@
+cmd_/home/sunbeam/Classwork/eldd/workque/gpio-intr.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/sunbeam/Classwork/eldd/workque/gpio-intr.ko /home/sunbeam/Classwork/eldd/workque/gpio-intr.o /home/sunbeam/Classwork/eldd/workque/gpio-intr.mod.o ;  true
